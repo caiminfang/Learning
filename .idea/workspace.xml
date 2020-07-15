@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/面试题 16.07. 最大数值/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/180. 连续出现的数字/read.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +15,16 @@
     <session id="2044781979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="82" />
-          <entry key="project.open.time.0" value="74" />
+          <entry key="project.closed" value="83" />
+          <entry key="project.open.time.0" value="75" />
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="83" />
+          <entry key="project.opened" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="40" />
+          <entry key="md" value="41" />
           <entry key="org" value="1" />
           <entry key="php" value="267" />
           <entry key="rd" value="1" />
@@ -33,20 +33,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="40" />
+          <entry key="Markdown" value="41" />
           <entry key="PHP" value="267" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="950" />
+          <entry key="md" value="956" />
           <entry key="php" value="29405" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="950" />
+          <entry key="Markdown" value="956" />
           <entry key="PHP" value="29405" />
         </counts>
       </usages-collector>
@@ -54,11 +54,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/面试题 16.07. 最大数值/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="380">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/180. 连续出现的数字/read.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="295">
+                <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -87,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/面试题 04.04. 检查平衡性/index.php" />
         <option value="$PROJECT_DIR$/test/111. 二叉树的最小深度/index.php" />
         <option value="$PROJECT_DIR$/test/面试题55 - I. 二叉树的深度/index.php" />
         <option value="$PROJECT_DIR$/test/104. 二叉树的最大深度/index.php" />
@@ -138,6 +149,7 @@
         <option value="$PROJECT_DIR$/test/461. 汉明距离/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/test/面试题 16.07. 最大数值/index.php" />
+        <option value="$PROJECT_DIR$/test/180. 连续出现的数字/read.md" />
       </list>
     </option>
   </component>
@@ -151,10 +163,10 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="461" />
-    <option name="y" value="65" />
-    <option name="width" value="1440" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="44" />
+    <option name="y" value="23" />
+    <option name="width" value="1396" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -174,6 +186,12 @@
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="180. 连续出现的数字" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -191,11 +209,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/test/面试题 17.04. 消失的数字" />
       <recent name="$PROJECT_DIR$/test/626. 换座位" />
       <recent name="$PROJECT_DIR$/test/1441. 用栈操作构建数组" />
       <recent name="$PROJECT_DIR$/test/191. 位1的个数" />
-      <recent name="$PROJECT_DIR$/test/190. 颠倒二进制位" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -312,18 +330,19 @@
       <workItem from="1592555131168" duration="4610000" />
       <workItem from="1593335459054" duration="294000" />
       <workItem from="1594801152144" duration="5000" />
-      <workItem from="1594801176692" duration="2672000" />
+      <workItem from="1594801176692" duration="3681000" />
+      <workItem from="1594812568619" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196438000" />
+    <option name="totallyTimeSpent" value="197552000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="23" width="1394" height="877" extended-state="6" />
+    <frame x="44" y="23" width="1396" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20488165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20753324" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -373,13 +392,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/108. 将有序数组转换为二叉搜索树/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/700. 二叉搜索树中的搜索/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -684,8 +696,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/面试题 16.07. 最大数值/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="380">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/180. 连续出现的数字/read.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="295">
+            <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

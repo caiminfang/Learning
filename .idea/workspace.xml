@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/LCP 06. 拿硬币/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/面试题 02.03. 删除中间节点/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/面试题 02.03. 删除中间节点/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -330,18 +327,18 @@
       <workItem from="1599127228631" duration="3000" />
       <workItem from="1599205559651" duration="1934000" />
       <workItem from="1600325672908" duration="1272000" />
-      <workItem from="1600328355991" duration="2290000" />
+      <workItem from="1600328355991" duration="2753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208884000" />
+    <option name="totallyTimeSpent" value="209347000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="23" width="1390" height="877" extended-state="0" />
+    <frame x="50" y="23" width="1390" height="877" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16172107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16172107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -354,7 +351,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3477707" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3477707" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Migrations" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />

@@ -32,6 +32,10 @@ class Solution {
      * @param String $s
      * @return Integer
      */
+    //出现一个"A"，有x+y=(2x+y)+y=2x+2y
+//出现一个"B"，有x+y=x+(2y+x)=2x+2y
+//所以每出现一个A/B，都使x+y的值翻倍
+//因此结果是2**len(s)
     function calculate($s) {
         return 2**strlen($s);
     }

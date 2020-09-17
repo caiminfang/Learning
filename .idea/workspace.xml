@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/LCP 17. 速算机器人/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/LCP 17. 速算机器人/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/237. 删除链表中的节点/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +27,7 @@
         <counts>
           <entry key="md" value="41" />
           <entry key="org" value="1" />
-          <entry key="php" value="287" />
+          <entry key="php" value="288" />
           <entry key="rd" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -34,36 +35,36 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="41" />
-          <entry key="PHP" value="287" />
+          <entry key="PHP" value="288" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="956" />
-          <entry key="php" value="30953" />
+          <entry key="php" value="30965" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="956" />
-          <entry key="PHP" value="30953" />
+          <entry key="PHP" value="30965" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/LCP 17. 速算机器人/index.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/237. 删除链表中的节点/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+            <state relative-caret-position="100">
+              <caret line="5" column="30" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -141,8 +142,8 @@
         <option value="$PROJECT_DIR$/test/180. 连续出现的数字/read.md" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/test/面试题 02.03. 删除中间节点/index.php" />
-        <option value="$PROJECT_DIR$/test/index.php" />
         <option value="$PROJECT_DIR$/test/LCP 17. 速算机器人/index.php" />
+        <option value="$PROJECT_DIR$/test/index.php" />
       </list>
     </option>
   </component>
@@ -196,11 +197,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/237. 删除链表中的节点" />
       <recent name="$PROJECT_DIR$/test/LCP 17. 速算机器人" />
       <recent name="$PROJECT_DIR$/test/1108. IP 地址无效化" />
       <recent name="$PROJECT_DIR$/test/LCP 06. 拿硬币" />
       <recent name="$PROJECT_DIR$/test/面试题 02.03. 删除中间节点" />
-      <recent name="$PROJECT_DIR$/test/1470. 重新排列数组" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -326,12 +327,12 @@
       <workItem from="1599127228631" duration="3000" />
       <workItem from="1599205559651" duration="1934000" />
       <workItem from="1600325672908" duration="1272000" />
-      <workItem from="1600328355991" duration="3729000" />
+      <workItem from="1600328355991" duration="3955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210323000" />
+    <option name="totallyTimeSpent" value="210549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1390" height="877" extended-state="0" />
@@ -387,13 +388,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/面试题32 - II. 从上到下打印二叉树 II/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/509. 斐波那契数/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -678,15 +672,22 @@
     <entry file="file://$PROJECT_DIR$/test/1108. IP 地址无效化/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/LCP 17. 速算机器人/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/237. 删除链表中的节点/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="30" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

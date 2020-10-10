@@ -12,7 +12,7 @@
     <session id="2044781979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="104" />
+          <entry key="project.closed" value="105" />
           <entry key="project.open.time.0" value="86" />
           <entry key="project.open.time.1" value="16" />
           <entry key="project.open.time.4" value="1" />
@@ -24,7 +24,7 @@
         <counts>
           <entry key="md" value="41" />
           <entry key="org" value="1" />
-          <entry key="php" value="314" />
+          <entry key="php" value="315" />
           <entry key="rd" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -32,7 +32,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="41" />
-          <entry key="PHP" value="314" />
+          <entry key="PHP" value="315" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
@@ -70,11 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/412. Fizz Buzz/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
               <caret line="59" column="1" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/LCP 11. 期望个数统计/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1060">
+              <caret line="48" column="1" selection-end-line="48" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -103,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/面试题32 - I. 从上到下打印二叉树/index.php" />
         <option value="$PROJECT_DIR$/test/面试题10- I. 斐波那契数列/index.php" />
         <option value="$PROJECT_DIR$/test/509. 斐波那契数/index.php" />
         <option value="$PROJECT_DIR$/test/面试题10- II. 青蛙跳台阶问题/index.php" />
@@ -154,6 +162,7 @@
         <option value="$PROJECT_DIR$/test/867. 转置矩阵/index.php" />
         <option value="$PROJECT_DIR$/test/669. 修剪二叉搜索树/index.php" />
         <option value="$PROJECT_DIR$/test/412. Fizz Buzz/index.php" />
+        <option value="$PROJECT_DIR$/test/LCP 11. 期望个数统计/index.php" />
       </list>
     </option>
   </component>
@@ -167,7 +176,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="54" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -352,17 +361,18 @@
       <workItem from="1601285695659" duration="1826000" />
       <workItem from="1601365451679" duration="273000" />
       <workItem from="1601366997869" duration="2569000" />
-      <workItem from="1601455566626" duration="341000" />
+      <workItem from="1601455566626" duration="1212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223163000" />
+    <option name="totallyTimeSpent" value="224034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28755364" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28755364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -375,7 +385,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.40722892" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" weight="0.40722892" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.36506024" />
       <window_info anchor="bottom" id="Migrations" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -412,13 +422,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/783. 二叉搜索树节点最小距离/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="50" column="34" lean-forward="true" selection-end-line="66" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/530. 二叉搜索树的最小绝对差/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -748,6 +751,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="59" column="1" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/LCP 11. 期望个数统计/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="48" column="1" selection-end-line="48" selection-end-column="1" />
         </state>
       </provider>
     </entry>

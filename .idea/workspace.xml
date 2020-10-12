@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/167. 两数之和 II - 输入有序数组/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/1287. 有序数组中出现次数超过25%的元素/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +26,7 @@
         <counts>
           <entry key="md" value="41" />
           <entry key="org" value="1" />
-          <entry key="php" value="318" />
+          <entry key="php" value="319" />
           <entry key="rd" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -35,31 +34,40 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="41" />
-          <entry key="PHP" value="318" />
+          <entry key="PHP" value="319" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="956" />
-          <entry key="php" value="31016" />
+          <entry key="php" value="31017" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="956" />
-          <entry key="PHP" value="31016" />
+          <entry key="PHP" value="31017" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/167. 两数之和 II - 输入有序数组/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="743">
               <caret line="44" column="1" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/1287. 有序数组中出现次数超过25%的元素/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -88,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/70. 爬楼梯/index.php" />
         <option value="$PROJECT_DIR$/test/1137. 第 N 个泰波那契数/index.php" />
         <option value="$PROJECT_DIR$/test/287. 寻找重复数.php" />
         <option value="$PROJECT_DIR$/test/面试题09. 用两个栈实现队列/index.php" />
@@ -139,6 +146,7 @@
         <option value="$PROJECT_DIR$/test/929. 独特的电子邮件地址/index.php" />
         <option value="$PROJECT_DIR$/test/面试题 17.10. 主要元素/index.php" />
         <option value="$PROJECT_DIR$/test/167. 两数之和 II - 输入有序数组/index.php" />
+        <option value="$PROJECT_DIR$/test/1287. 有序数组中出现次数超过25%的元素/index.php" />
       </list>
     </option>
   </component>
@@ -339,12 +347,12 @@
       <workItem from="1601366997869" duration="2569000" />
       <workItem from="1601455566626" duration="1212000" />
       <workItem from="1602313327034" duration="982000" />
-      <workItem from="1602495850853" duration="341000" />
+      <workItem from="1602495850853" duration="839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225357000" />
+    <option name="totallyTimeSpent" value="225855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -400,14 +408,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/620. 有趣的电影/read.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-845" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/626. 换座位/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -735,6 +735,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="743">
           <caret line="44" column="1" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/1287. 有序数组中出现次数超过25%的元素/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
         </state>
       </provider>
     </entry>

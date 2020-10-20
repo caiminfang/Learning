@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="" />
+    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/1464. 数组中两元素的最大乘积/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +27,7 @@
         <counts>
           <entry key="md" value="41" />
           <entry key="org" value="1" />
-          <entry key="php" value="331" />
+          <entry key="php" value="333" />
           <entry key="rd" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -32,31 +35,49 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="41" />
-          <entry key="PHP" value="331" />
+          <entry key="PHP" value="333" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="956" />
-          <entry key="php" value="31037" />
+          <entry key="php" value="31040" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="956" />
-          <entry key="PHP" value="31037" />
+          <entry key="PHP" value="31040" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/657. 机器人能否返回原点/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="360">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/1299. 将每个元素替换为右侧最大元素/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/1464. 数组中两元素的最大乘积/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -85,8 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/530. 二叉搜索树的最小绝对差/index.php" />
-        <option value="$PROJECT_DIR$/test/125. 验证回文串/index.php" />
         <option value="$PROJECT_DIR$/test/626. 换座位/read.md" />
         <option value="$PROJECT_DIR$/test/1480. 一维数组的动态和/index.php" />
         <option value="$PROJECT_DIR$/test/1486. 数组异或操作/index.php" />
@@ -136,6 +155,8 @@
         <option value="$PROJECT_DIR$/test/1614. 括号的最大嵌套深度/index.php" />
         <option value="$PROJECT_DIR$/test/1534. 统计好三元组/index.php" />
         <option value="$PROJECT_DIR$/test/657. 机器人能否返回原点/index.php" />
+        <option value="$PROJECT_DIR$/test/1299. 将每个元素替换为右侧最大元素/index.php" />
+        <option value="$PROJECT_DIR$/test/1464. 数组中两元素的最大乘积/index.php" />
       </list>
     </option>
   </component>
@@ -171,18 +192,6 @@
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="657. 机器人能否返回原点" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="669. 修剪二叉搜索树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -355,12 +364,12 @@
       <workItem from="1602567215434" duration="161000" />
       <workItem from="1602724495357" duration="347000" />
       <workItem from="1603097518547" duration="438000" />
-      <workItem from="1603163515779" duration="7771000" />
+      <workItem from="1603163515779" duration="8451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236089000" />
+    <option name="totallyTimeSpent" value="236769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="23" width="1393" height="877" extended-state="0" />
@@ -416,10 +425,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/test/面试题 08.05. 递归乘法/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/1512. 好数对的数目/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -742,8 +747,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/657. 机器人能否返回原点/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="360">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/1299. 将每个元素替换为右侧最大元素/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/1464. 数组中两元素的最大乘积/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
         </state>
       </provider>
     </entry>

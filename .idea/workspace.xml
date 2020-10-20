@@ -24,7 +24,7 @@
         <counts>
           <entry key="md" value="41" />
           <entry key="org" value="1" />
-          <entry key="php" value="328" />
+          <entry key="php" value="329" />
           <entry key="rd" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -32,35 +32,26 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="41" />
-          <entry key="PHP" value="328" />
+          <entry key="PHP" value="329" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="956" />
-          <entry key="php" value="31033" />
+          <entry key="php" value="31035" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="956" />
-          <entry key="PHP" value="31033" />
+          <entry key="PHP" value="31035" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/1287. 有序数组中出现次数超过25%的元素/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="820">
-              <caret line="41" column="1" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/448. 找到所有数组中消失的数字/index.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,11 +124,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/1614. 括号的最大嵌套深度/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/1534. 统计好三元组/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-282">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -166,7 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/面试题 03.02. 栈的最小值/index.php" />
         <option value="$PROJECT_DIR$/test/783. 二叉搜索树节点最小距离/index.php" />
         <option value="$PROJECT_DIR$/test/530. 二叉搜索树的最小绝对差/index.php" />
         <option value="$PROJECT_DIR$/test/125. 验证回文串/index.php" />
@@ -217,6 +216,7 @@
         <option value="$PROJECT_DIR$/test/1603. 设计停车系统/inde.php" />
         <option value="$PROJECT_DIR$/test/1588. 所有奇数长度子数组的和/index.php" />
         <option value="$PROJECT_DIR$/test/1614. 括号的最大嵌套深度/index.php" />
+        <option value="$PROJECT_DIR$/test/1534. 统计好三元组/index.php" />
       </list>
     </option>
   </component>
@@ -424,12 +424,12 @@
       <workItem from="1602567215434" duration="161000" />
       <workItem from="1602724495357" duration="347000" />
       <workItem from="1603097518547" duration="438000" />
-      <workItem from="1603163515779" duration="5519000" />
+      <workItem from="1603163515779" duration="6063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="233837000" />
+    <option name="totallyTimeSpent" value="234381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="23" width="1393" height="877" extended-state="0" />
@@ -485,13 +485,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/682. 棒球比赛/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1187">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/1047. 删除字符串中的所有相邻重复项/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
@@ -813,6 +806,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/1534. 统计好三元组/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="" />
+    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/面试题 08.03. 魔术索引/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,18 +16,18 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="114" />
-          <entry key="project.open.time.0" value="94" />
+          <entry key="project.open.time.0" value="95" />
           <entry key="project.open.time.1" value="17" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="114" />
+          <entry key="project.opened" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="41" />
           <entry key="org" value="1" />
-          <entry key="php" value="336" />
+          <entry key="php" value="338" />
           <entry key="rd" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -32,26 +35,45 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="41" />
-          <entry key="PHP" value="336" />
+          <entry key="PHP" value="338" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="956" />
-          <entry key="php" value="31048" />
+          <entry key="php" value="31054" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="956" />
-          <entry key="PHP" value="31048" />
+          <entry key="PHP" value="31054" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/1518. 换酒问题/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="70" column="1" lean-forward="true" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/面试题 08.03. 魔术索引/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="678">
+              <caret line="37" column="1" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -75,8 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/1290. 二进制链表转整数/index.php" />
-        <option value="$PROJECT_DIR$/test/461. 汉明距离/index.php" />
         <option value="$PROJECT_DIR$/test/面试题 16.07. 最大数值/index.php" />
         <option value="$PROJECT_DIR$/test/180. 连续出现的数字/read.md" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -126,6 +146,8 @@
         <option value="$PROJECT_DIR$/test/709. 转换成小写字母/index.php" />
         <option value="$PROJECT_DIR$/test/1476. 子矩形查询/index.php" />
         <option value="$PROJECT_DIR$/test/面试题 16.01. 交换数字/index.php" />
+        <option value="$PROJECT_DIR$/test/1518. 换酒问题/index.php" />
+        <option value="$PROJECT_DIR$/test/面试题 08.03. 魔术索引/index.php" />
       </list>
     </option>
   </component>
@@ -139,7 +161,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="47" />
     <option name="y" value="23" />
     <option name="width" value="1393" />
@@ -335,16 +357,18 @@
       <workItem from="1603097518547" duration="438000" />
       <workItem from="1603163515779" duration="9311000" />
       <workItem from="1603244986421" duration="1857000" />
+      <workItem from="1603262246224" duration="572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239486000" />
+    <option name="totallyTimeSpent" value="240058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="23" width="1393" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23982236" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25166544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -394,16 +418,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/面试题 02.03. 删除中间节点/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" selection-start-line="25" selection-start-column="2" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LCP 06. 拿硬币/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/1108. IP 地址无效化/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -732,6 +746,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="34" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/1518. 换酒问题/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="70" column="1" lean-forward="true" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/面试题 08.03. 魔术索引/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="37" column="1" selection-end-line="38" />
         </state>
       </provider>
     </entry>

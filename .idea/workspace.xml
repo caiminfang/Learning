@@ -12,7 +12,7 @@
     <session id="2044781979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="112" />
+          <entry key="project.closed" value="113" />
           <entry key="project.open.time.0" value="93" />
           <entry key="project.open.time.1" value="17" />
           <entry key="project.open.time.4" value="1" />
@@ -24,7 +24,7 @@
         <counts>
           <entry key="md" value="41" />
           <entry key="org" value="1" />
-          <entry key="php" value="333" />
+          <entry key="php" value="334" />
           <entry key="rd" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -32,20 +32,20 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="41" />
-          <entry key="PHP" value="333" />
+          <entry key="PHP" value="334" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="956" />
-          <entry key="php" value="31040" />
+          <entry key="php" value="31043" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="956" />
-          <entry key="PHP" value="31040" />
+          <entry key="PHP" value="31043" />
         </counts>
       </usages-collector>
     </session>
@@ -70,11 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/1464. 数组中两元素的最大乘积/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="78">
               <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/709. 转换成小写字母/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -103,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/626. 换座位/read.md" />
         <option value="$PROJECT_DIR$/test/1480. 一维数组的动态和/index.php" />
         <option value="$PROJECT_DIR$/test/1486. 数组异或操作/index.php" />
         <option value="$PROJECT_DIR$/test/1290. 二进制链表转整数/index.php" />
@@ -154,6 +162,7 @@
         <option value="$PROJECT_DIR$/test/657. 机器人能否返回原点/index.php" />
         <option value="$PROJECT_DIR$/test/1299. 将每个元素替换为右侧最大元素/index.php" />
         <option value="$PROJECT_DIR$/test/1464. 数组中两元素的最大乘积/index.php" />
+        <option value="$PROJECT_DIR$/test/709. 转换成小写字母/index.php" />
       </list>
     </option>
   </component>
@@ -167,7 +176,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="59" />
     <option name="y" value="23" />
     <option name="width" value="1393" />
@@ -361,12 +370,12 @@
       <workItem from="1602567215434" duration="161000" />
       <workItem from="1602724495357" duration="347000" />
       <workItem from="1603097518547" duration="438000" />
-      <workItem from="1603163515779" duration="8719000" />
+      <workItem from="1603163515779" duration="9311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237037000" />
+    <option name="totallyTimeSpent" value="237629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="23" width="1393" height="877" extended-state="0" />
@@ -422,13 +431,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/1512. 好数对的数目/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/1431. 拥有最多糖果的孩子/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -760,6 +762,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/709. 转换成小写字母/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
